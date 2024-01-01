@@ -70,10 +70,6 @@ How to set up and run the project.
 
 ### Prerequisites
 
-#### Python
-* [Python 3.*](https://www.python.org/downloads/)
-* Text Editor/IDE
-
 #### C++
 * g++ compiler (or any alternative)
 
